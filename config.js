@@ -29,10 +29,10 @@ global.APIKeys = { // APIKey Here
    
 //*Sisked Good Datos*
 
-global.packname = `𝙎𝙄𝙎𝙆𝙀𝘿 𝘽𝙊𝙏`
-global.author = '{\n "bot": {\n   "name": "𝙎𝙄𝙎𝙆𝙀𝘿 𝘽𝙊𝙏",\n     "author": "Anuar",\n   "status_bot": "active"\n }\n}'
-global.wait = '𝙎𝙄𝙎𝙆𝙀𝘿 𝘽𝙊𝙏'
-global.botname = '𝙎𝙄𝙎𝙆𝙀𝘿 𝘽𝙊𝙏'
+global.packname = `𝐃𝐀𝐑𝐋𝐘 𝐁𝐎𝐓 ᡣ𐭩`
+global.author = '{\n "bot": {\n   "name": "𝐃𝐀𝐑𝐋𝐘 𝐁𝐎𝐓 ᡣ𐭩",\n     "author": "Anuar",\n   "status_bot": "active"\n }\n}'
+global.wait = '𝐃𝐀𝐑𝐋𝐘 𝐁𝐎𝐓 ᡣ𐭩'
+global.botname = '𝐃𝐀𝐑𝐋𝐘 𝐁𝐎𝐓 ᡣ𐭩'
 global.textbot = `Super Bot De WhatsApp ⭐`
 global.listo = 'Completado ✯'
 global.namechannel = '「  𝑺𝑰𝑺𝑲𝑬𝑫 - 𝑪𝑯𝑨𝑵𝑬𝑳  」'
