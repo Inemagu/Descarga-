@@ -56,22 +56,13 @@ newsletterName: '「  𝑺𝑰𝑺𝑲𝑬𝑫 - 𝑪𝑯𝑨𝑵𝑬𝑳  」',
 },
 externalAdReply: { 
 showAdAttribution: true,
-title: '𝙎𝙄𝙎𝙆𝙀𝘿 𝘽𝙊𝙏',
-body: 'Super Bot de WhatsApp ⭐',
+title: '𝐃𝐀𝐑𝐋𝐘 𝐁𝐎𝐓 ᡣ𐭩',
+body: 'Super Bot de WhatsApp 🌸',
 previewType: "PHOTO",
-thumbnailUrl: 'https://i.ibb.co/qBxdwZW/file.jpg',
+thumbnailUrl: 'https://i.ibb.co/ftWbvf7/file.jpg',
 sourceUrl: 'https://www.instagram.com/sisked_1',
 mediaType: 1,
 renderLargerThumbnail: false
 },},}
 	
 }
-
-global.icono = [ 
-'https://ibb.co/gr17SSM',
-'https://ibb.co/gr17SSM',
-'https://ibb.co/gr17SSM',
-'https://ibb.co/gr17SSM',
-'https://ibb.co/gr17SSM',
-'https://ibb.co/gr17SSM',
-].getRandom()
