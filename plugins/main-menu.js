@@ -30,7 +30,7 @@ const defaultMenu = {
   before: `
 *──ׅ─⭒─ׄ─ׄ─⭒─ׅ─ׄ─⭒─ׄ─ׄ─⭒─ׄ─ׄ─⭒─ׄ─ׄ*
 
-“ Saludos *%name* Te presento mi menú.”
+“ Holi *%name* Te presento mi menú.”
 
  ⬣「 *Info User* 」⬣
 ┃ *👤 Nombre ∙* %name
@@ -40,16 +40,16 @@ const defaultMenu = {
 %readmore
 ━ 〆 ━ 〆 ━ 〆 ━ 〆 ━ 〆 ━ 〆 ━ 〆
 
-\t\t\t𝐒 𝐈 𝐒 𝐊 𝐄 𝐃 - 𝐌 𝐄 𝐍 𝐔́
+\t\t\t𝐃 𝐀 𝐑 𝐋 𝐘 - 𝐌 𝐄 𝐍 𝐔́
 `.trimStart(),
-header: '「 *%category* 」',
-body: '┃━ 〆 *%cmd*\n',
-footer: '──ׅ─⭒─ׄ─ׄ─⭒─ׅ─ׄ─⭒─ׄ─ׄ─⭒─ׄ─ׄ─⭒─ׄ─ׄ\n',
+header: '🦋「 *%category* 」🦋',
+body: '┃ღ *%cmd*\n',
+footer: '🧸 ღღღღ 🧸\n',
 after: '',
 }
 
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
-  m.react('⭐')
+  m.react('👸🏻')
   try {
     let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
     let { exp, limit, level } = global.db.data.users[m.sender]
