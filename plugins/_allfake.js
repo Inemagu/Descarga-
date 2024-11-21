@@ -59,7 +59,7 @@ showAdAttribution: true,
 title: '𝐃𝐀𝐑𝐋𝐘 𝐁𝐎𝐓 ᡣ𐭩',
 body: 'Super Bot de WhatsApp 🌸',
 previewType: "PHOTO",
-thumbnailUrl: 'https://d.uguu.se/ExMMYvTl.jpg',
+thumbnailUrl: 'https://i.ibb.co/WFcXVvr/file.jpg',
 sourceUrl: 'https://www.instagram.com/sisked_1',
 mediaType: 1,
 renderLargerThumbnail: false
