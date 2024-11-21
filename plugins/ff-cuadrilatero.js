@@ -63,7 +63,7 @@ const handler = async (m, { conn, args }) => {
     
     conn.sendMessage(m.chat, {text: message}, {quoted: m});
 };
-handler.help = ['cuadrilatero']
+handler.help = ['cuadrilista']
 handler.tags = ['freefire']
-handler.command = /^(cuadri|cuadrilatero)$/i;
+handler.command = /^(cuadrilista)$/i;
 export default handler;
