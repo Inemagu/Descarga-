@@ -92,6 +92,8 @@ export async function handler(chatUpdate) {
                     chat.bienvenida = true
                 if (!('modoadmin' in chat)) 
                     chat.modoadmin = false
+                if (!('onlyLatinos' in chat))
+                    chat.onlyLatinos = true 
                 if (!('detect' in chat)) 
                     chat.detect = true
                 if (!('audios' in chat))
@@ -111,6 +113,7 @@ export async function handler(chatUpdate) {
                     isBanned: false,
                     bienvenida: true,
                     modoadmin: false,
+                    onlyLatinos: false,
                     detect: true,
                     audios: false,
                     antiLink: false,
