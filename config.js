@@ -32,9 +32,9 @@ global.APIKeys = { // APIKey Here
 global.packname = `𝐃𝐀𝐑𝐋𝐘 𝐁𝐎𝐓 ᡣ𐭩`
 global.author = '{\n "bot": {\n   "name": "𝐃𝐀𝐑𝐋𝐘 𝐁𝐎𝐓 ᡣ𐭩",\n     "author": "Anuar",\n   "status_bot": "active"\n }\n}'
 global.wait = '𝐃𝐀𝐑𝐋𝐘 𝐁𝐎𝐓 ᡣ𐭩'
-global.botname = '𝐃𝐀𝐑𝐋𝐘 𝐁𝐎𝐓 ᡣ𐭩'
-global.textbot = `Super Bot De WhatsApp ⭐`
-global.listo = 'Completado ✯'
+global.botname = '𝐃𝐀𝐑𝐋𝐘 𝐁𝐎𝐓 · ꨄ︎ ·'
+global.textbot = `𝐃𝐀𝐑𝐋𝐘 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 · ꨄ︎ ·`
+global.listo = '𝐄𝐍𝐓𝐑𝐄𝐆𝐀 𝐃𝐀𝐑𝐋𝐘 · ꨄ︎ ·'
 global.namechannel = '「  𝑺𝑰𝑺𝑲𝑬𝑫 - 𝑪𝑯𝑨𝑵𝑬𝑳  」'
 global.baileys = '@whiskeysockets/baileys'
 
