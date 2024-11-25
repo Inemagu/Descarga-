@@ -144,8 +144,7 @@ reportError(e)
 }}}}
 handler.help = ["superinspect", "inspect"]
 handler.tags = ['tools'];
-handler.command = /^(superinspect|inspect|revisar|inspeccionar)$/i;
-handler.register = true;
+handler.command = /^(superinspect|inspect|idcanal|revisar|inspeccionar)$/i;
 
 export default handler;
 
