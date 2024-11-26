@@ -41,9 +41,9 @@ if (!args[0]) throw `
                  
 ` 
 }
-handler.help = ['16vs16']
+handler.help = ['cuadrilista']
 handler.tags = ['freefire']
-handler.command = /^(16vs16|vs16)$/i
+handler.command = /^(cuadrilista|cuadrilaterovs)$/i
 handler.group = true
 handler.admin = true
 export default handler
